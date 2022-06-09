@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tech Chronicle</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">REGISTER</string>
+    <string name="do_you_have_an_account">Do you have an account?</string>
+    <string name="login">Login</string>
+    <string name="loginn">LOGIN</string>
+    <string name="passwordd">Password</string>
+    <string name="emaill">Email</string>
+</resources>
